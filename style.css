@@ -42,7 +42,19 @@ padding:10px;
 }
 
 img{
-width:80%;
-margin:10px auto;
+max-width:800px;
+width:100%;
 display:block;
+margin:auto;
+margin-bottom:20px;
 }
+body{
+background:#000;
+}
+
+h1{
+text-align:center;
+margin:20px;
+}
+
+
