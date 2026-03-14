@@ -1,5 +1,5 @@
 body{
-background:#0f0f0f;
+background:#000;
 color:white;
 font-family:Arial;
 margin:0;
@@ -48,13 +48,8 @@ display:block;
 margin:auto;
 margin-bottom:20px;
 }
-body{
-background:#000;
-}
 
 h1{
 text-align:center;
 margin:20px;
 }
-
-
